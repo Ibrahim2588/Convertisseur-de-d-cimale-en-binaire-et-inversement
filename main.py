@@ -1,7 +1,3 @@
-#mon test de push
-
-#coding:utf-8
-
 #coding:utf-8
 #!/bin/python3
 
